@@ -11,4 +11,12 @@ After login, users will be able to:
 
 The second half of this two-part project will be creating a front-end client that uses this REST API as part of a full stack JavaScript Application. 
 
-To complete this back-end server project, I used my knowledge of Node.js, Express, REST APIS, and Sequelize. To test my application, I used Postman. 
+To complete this back-end server project, I used my knowledge of Javascript, Node.js, Express, REST APIS, and Sequelize. To test my application, I used Postman. 
+
+
+HOW TO RUN THIS APPLICATION: 
+1. Download project, open terminal run NPM install 
+2. To initialize database run: npm run seed 
+3. Run npm start 
+4. Test server: http://localhost:5000/
+5. To end: Ctrl + C 
