@@ -9,15 +9,16 @@ After login, users will be able to:
 2. Update or delete existing courses 
 3. Create new courses
 
-The second half of this two-part project will be creating a front-end client that uses this REST API as part of a full stack JavaScript Application. 
+The second half of this two-part project will be creating a front-end client that uses this REST API as part of a full stack Javascript Application. 
 
 To complete this back-end server project, I used my knowledge of Javascript, Node.js, Express, REST APIs, and Sequelize. 
+
 To test my application, I used Postman. 
 
-
-HOW TO RUN THIS APPLICATION: 
-1. Download project then open terminal run npm install 
-2. To initialize database run: npm run seed 
-3. Run npm start 
-4. Test server: http://localhost:5000/
-5. To end: Ctrl + C 
+TO RUN THIS APPLICATION: 
+1. Download project 
+2. Open terminal. Run: npm install 
+3. To initialize database run: npm run seed 
+4. Run: npm start 
+5. Test server: http://localhost:5000/
+6. To end: Ctrl + C 
